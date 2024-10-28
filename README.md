@@ -1,4 +1,4 @@
-# 🍽️ Auto Meal Planner
+# 🍽️ Auto Meal Planner ![Tests](https://github.com/teyk0o/auto-meal-planner/actions/workflows/test.yml/badge.svg)
 
 > 🤖 AI-powered meal planning and shopping list generator based on real-time supermarket prices.
 
